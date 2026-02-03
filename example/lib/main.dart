@@ -45,8 +45,38 @@ class _WaveSliderExampleState extends State<WaveSliderExample> {
                 value: value,
                 onChanged: (v) => setState(() => value = v),
                 theme: const WaveSliderTheme(
+                  activeColor: Colors.red,
+                  thumbColor: Colors.red,
+                  amplitude: 4,
+                  frequency: 5,
+                  thumbShape: WaveSliderThumbShape.diamond,
+                ),
+                controller: const WaveSliderController(
+                  animateWave: true,
+                  flatlineOnDrag: true,
+                ),
+              ),
+              WaveSlider(
+                value: value,
+                onChanged: (v) => setState(() => value = v),
+                theme: const WaveSliderTheme(
+                  activeColor: Colors.green,
+                  thumbColor: Colors.green,
                   amplitude: 4,
                   frequency: 10,
+                  thumbShape: WaveSliderThumbShape.circle,
+                ),
+                controller: const WaveSliderController(
+                  animateWave: true,
+                  flatlineOnDrag: true,
+                ),
+              ),
+              WaveSlider(
+                value: value,
+                onChanged: (v) => setState(() => value = v),
+                theme: const WaveSliderTheme(
+                  amplitude: 4,
+                  frequency: 15,
                   thumbShape: WaveSliderThumbShape.bar,
                 ),
                 controller: const WaveSliderController(

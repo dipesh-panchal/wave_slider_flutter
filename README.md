@@ -29,20 +29,19 @@ dependencies:
 
 ---
 
+## 📸 Screenshots
+<img src="screenshot/wave_slider_example.gif" width="200">
+
 ## 🚀 Usage
 
 ```dart
 double value = 0.5;
-
 WaveSlider(
   value: value,
-  onChanged: (v) {
-    setState(() => value = v);
-  },
+  onChanged: (v) {setState(() => value = v);}
 );
+```
 
-
----
 
 ## 🎨 Customization
 
@@ -59,3 +58,5 @@ WaveSlider(
   ),
 );
 ```
+
+
