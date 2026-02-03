@@ -24,14 +24,14 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  wave_slider_flutter: ^0.1.0
+  wave_slider_flutter: ^0.1.4
 ````
 
 ---
 
 ## 📸 Screenshots
 <div>
-<img src="https://raw.githubusercontent.com/dipesh-panchal/wave_slider_flutter/tree/main/screenshot/wave_slider_example.gif" width="200">
+<img src="https://raw.githubusercontent.com/dipesh-panchal/wave_slider_flutter/main/screenshot/wave_slider_example.gif" width="200">
 </div>
 
 
