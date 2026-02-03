@@ -31,7 +31,7 @@ dependencies:
 
 ## 📸 Screenshots
 <div>
-<img src="https://raw.githubusercontent.com/dipesh-panchal/wave_slider_flutter/tree/main/screenshot/wave_slider_example.gif" width="200">
+<img src="https://raw.githubusercontent.com/dipesh-panchal/wave_slider_flutter/main/screenshot/wave_slider_example.gif" width="200">
 </div>
 
 

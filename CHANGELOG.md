@@ -1,3 +1,7 @@
+## 0.1.4
+- Updated readme
+## 0.1.3
+- Dislpayed gif to showcase wave slider
 ## 0.1.2
 - Dislpayed gif to showcase wave slider
 ## 0.1.1
