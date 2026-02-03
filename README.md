@@ -30,7 +30,9 @@ dependencies:
 ---
 
 ## 📸 Screenshots
-<img src="screenshot/wave_slider_example.gif" width="200">
+<div>
+<img src="https://github.com/dipesh-panchal/wave_slider_flutter/tree/main/screenshot/wave_slider_example.gif" width="200">
+</div>
 
 ## 🚀 Usage
 

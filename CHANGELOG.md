@@ -1,3 +1,5 @@
+## 0.1.2
+- Dislpayed gif to showcase wave slider
 ## 0.1.1
 - Added gif to showcase wave slider
 ## 0.1.0
